@@ -1,0 +1,41 @@
+# MySQL Employee Management System
+
+## Description
+
+This project contains a set of **60 SQL practical tasks** performed using **MySQL Workbench**.
+
+The practical covers basic to intermediate **SQL DDL and DML operations** using an Employee Management System.
+
+### Topics Covered
+
+* Create Database
+* Create Table
+* Insert Records
+* SELECT Queries
+* WHERE, AND, OR
+* UPDATE Records
+* DELETE Records
+* ALTER TABLE
+* ADD COLUMN
+* MODIFY COLUMN
+* RENAME COLUMN
+* DROP COLUMN
+* RENAME TABLE
+* TRUNCATE TABLE
+* DROP TABLE
+
+### Tools Used
+
+* MySQL
+* MySQL Workbench
+
+### Database
+
+`company_db`
+
+### Tables
+
+* `employees`
+* `departments`
+
+This project was created for practicing SQL database and basic DDL/DML operations.
